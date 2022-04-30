@@ -8,7 +8,7 @@ import os
 from difflib import SequenceMatcher
 
 ENDPOINT_URL = 'https://api.eikonnex.ai/api/readme'
-API_KEY = 'csGjUIWS2K6TnlKHMtVW7al0hgaZuJUbhwxgFfr91liDjObxLtNoM2jTONeblNIp6LUcjiaCH9MqEL-c0nv_OQ'
+API_KEY = 'API_KEY' # get API KEY from https://readme.eikonnex.ai/login/api_usage
 INPUT_FILENAME = '/Users/maymay/Desktop/comp_vision_project/image.jpg' # Single page image (bmp jpg png tiff)
 
 
