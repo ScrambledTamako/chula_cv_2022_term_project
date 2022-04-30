@@ -1,5 +1,5 @@
 # Food Label Reader
-This repository is the accumulation of all the work done in Computer vision course in Chulalongkorn University 2021.
+This repository is the accumulation of all the work done in 2110433 Computer Vision course in Chulalongkorn University 2021.
 
 ## What we do
 We decide to detecting Thai language Food nutrition label in food package by using traditional computer vision method, and read it with OCR model to keep it good use in the future.
