@@ -35,7 +35,7 @@ streamlit run read_label.py
 
 ![Screen Shot 2565-04-30 at 13 18 10](https://user-images.githubusercontent.com/54425991/166094887-5b59159a-5e9e-4c9f-9439-20884cf53480.png)
 
-2. The website will process image and dataframe and show the result as below.
+2. The website will process image and dataframe then show the result as below.
 
 ![Screen Shot 2565-04-30 at 13 18 49](https://user-images.githubusercontent.com/54425991/166094899-c5ffbb3a-0141-4d7a-9e7f-6789abd25c07.png)
 ![Screen Shot 2565-04-30 at 13 18 53](https://user-images.githubusercontent.com/54425991/166094911-d0584a43-eb55-4fc0-bc23-ce739d222e02.png)
