@@ -48,7 +48,8 @@ streamlit run read_label.py
 
 
 ## Limitation
-Since food labels have several different formats, the values in dataframe result are not precise in some cases.
+1. Since food labels have several different formats, the values in dataframe result are not precise in some cases.
+2. Perspective image from curved surface label may crop out some detail on label.
 
 ## Future work
 Add more conditions to handle different formats of food labels.
