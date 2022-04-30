@@ -23,7 +23,7 @@ git clone https://github.com/ScrambledTamako/chula_cv_2022_term_project.git
 2. Add API KEY\
 2.1 Get API KEY from [Readme : Thai Scene Text Reader (eikonnex.ai) API](https://readme.eikonnex.ai/login/api_usage).\
 2.2 Edit API KEY in read_label.py line 11.
-3. Install require module and run the website in local.
+3. Install Python packages with pip and run the website in local.
 ```
 cd read-label
 pip install -r requirement.txt
@@ -31,11 +31,11 @@ streamlit run read_label.py
 ```
 
 ## How to use
-1. Click at Browse Files Button.
+1. Click on the Browse Files button.
 
 ![Screen Shot 2565-04-30 at 13 18 10](https://user-images.githubusercontent.com/54425991/166094887-5b59159a-5e9e-4c9f-9439-20884cf53480.png)
 
-2. The website will process image and dataframe then show the result as below.
+2. The website will process the image and dataframe and then show the result as below.
 
 ![Screen Shot 2565-04-30 at 13 18 49](https://user-images.githubusercontent.com/54425991/166094899-c5ffbb3a-0141-4d7a-9e7f-6789abd25c07.png)
 ![Screen Shot 2565-04-30 at 13 18 53](https://user-images.githubusercontent.com/54425991/166094911-d0584a43-eb55-4fc0-bc23-ce739d222e02.png)
@@ -48,8 +48,8 @@ streamlit run read_label.py
 
 
 ## Limitation
-1. Since food labels have several different formats, the values in dataframe result are not precise in some cases.
-2. Perspective image from curved surface label may crop out some detail on label.
+1. Since food labels have several different formats, the values in the dataframe result are not precise in some cases.
+2. A perspective image from a curved surface label may crop out some details on the label.
 
 ## Future work
 Add more conditions to handle different formats of food labels.
