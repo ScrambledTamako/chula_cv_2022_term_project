@@ -2,7 +2,7 @@
 This is github page of term project chla cv2022 class 
 
 
-How to run
+## How to run
 ```
 git clone https://github.com/chnanmm/read-label.git
 cd read-label
@@ -10,13 +10,13 @@ pip install -r requirement.txt
 streamlit run read_label.py 
 ```
 
-How to use
+## How to use
 1. Click at Browse Files Button.
-![image](https://user-images.githubusercontent.com/54425991/166094552-5cc21f82-813a-43da-a7ea-21e74af3ac4f.png)
+![Screen Shot 2565-04-30 at 13 18 10](https://user-images.githubusercontent.com/54425991/166094887-5b59159a-5e9e-4c9f-9439-20884cf53480.png)
 2. The website will process image and dataframe and show as below.
-![image](https://user-images.githubusercontent.com/54425991/166094558-b4e3de4d-6aa1-4c0d-ae9b-13029b422da6.png)
-![image](https://user-images.githubusercontent.com/54425991/166094560-4ecee1c1-3249-41c4-b64b-a26dbac5c21a.png)
+![Screen Shot 2565-04-30 at 13 18 49](https://user-images.githubusercontent.com/54425991/166094899-c5ffbb3a-0141-4d7a-9e7f-6789abd25c07.png)
+![Screen Shot 2565-04-30 at 13 18 53](https://user-images.githubusercontent.com/54425991/166094911-d0584a43-eb55-4fc0-bc23-ce739d222e02.png)
 
 
-Limitation
+## Limitation
 Since food labels have several different formats, the values in dataframe result are not precise in some cases.
