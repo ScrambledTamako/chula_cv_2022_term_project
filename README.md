@@ -46,6 +46,11 @@ streamlit run read_label.py
 ![Screen Shot 2565-04-30 at 13 24 05](https://user-images.githubusercontent.com/54425991/166095736-f0b944d2-3f0e-41d0-b1f8-9270cb171456.png)
 ![Screen Shot 2565-04-30 at 13 25 26](https://user-images.githubusercontent.com/54425991/166095740-b27cc24f-9a95-48ce-b40b-188fd686841b.png)
 
+## Evaluation
+![Screen Shot 2565-05-07 at 22 26 17](https://user-images.githubusercontent.com/54425991/167261005-c081c7d1-2345-4d6a-90fb-dfbdc492006d.png)
+(Evaluate on 49 label images)
+
+
 
 ## Limitation
 1. Since food labels have several different formats, the values in the dataframe result are not precise in some cases.
